@@ -219,11 +219,11 @@ header .centered-message button:hover {
 /* Responsive styles */
 @media (max-width: 768px) {
     .header-text1 {
-        font-size: 30px;
+        font-size: 10px;
     }
 
     .header-text2 {
-        font-size: 40px;
+        font-size: 15px;
     }
 
     .navbar-links {
